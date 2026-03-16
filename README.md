@@ -10,8 +10,8 @@ Construir una base reutilizable para prototipos visuales donde sea fácil iterar
 - `Assets/2-Art`: recursos visuales (3D, VFX, SFX, UI, iluminación, skyboxes, etc.).
 - `Assets/3-Scenes`: escenas de trabajo, incluyendo `Main.unity`.
 - `Assets/4-Presets` y `Assets/5-Settings`: presets y configuración de render (URP).
-	## 🚀 Puesta en marcha
-	1. Abre el proyecto con la versión de Unity indicada en `ProjectSettings/ProjectVersion.txt`.
+## 🚀 Puesta en marcha
+1. Abre el proyecto con la versión de Unity indicada en `ProjectSettings/ProjectVersion.txt`.
 2. Carga la escena principal en `Assets/3-Scenes/Main.unity`.
 3. Ejecuta el proyecto desde el editor para validar materiales, luces y VFX.
 ## ✅ Recomendaciones para mantener el repositorio

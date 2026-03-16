@@ -1,6 +1,4 @@
-<p align="center">
-   ![PlanckScale](https://github.com/user-attachments/assets/d748eb86-15f9-4f5a-8b53-67983a969c28)
-	</p>
+![PlanckScale](https://github.com/user-attachments/assets/d748eb86-15f9-4f5a-8b53-67983a969c28)
 
 # PlanckScale
 

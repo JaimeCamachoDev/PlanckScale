@@ -4,7 +4,7 @@
 
 **PlanckScale** es un proyecto en Unity enfocado en experimentar con efectos visuales (VFX), iluminación y composición artística inspirada en la estética de escalas físicas extremas.
 
-## 🚀 Puesta en marcha
+## Puesta en marcha
 1. Abre el proyecto con la versión de Unity indicada en `ProjectSettings/ProjectVersion.txt`.
 2. Carga la escena principal en `Assets/3-Scenes/Main.unity`.
 3. Ejecuta el proyecto desde el editor para validar materiales, luces y VFX.

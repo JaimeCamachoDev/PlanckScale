@@ -11,7 +11,7 @@
 
 ## Requisitos
 
-* Unity **6000.3.10f1**
+* Unity **6000.3.27f1**
 * Render Pipeline: Universal Render Pipeline (URP)
 * Paquetes: Visual Effect Graph
 
@@ -24,5 +24,5 @@
 ## Uso
 
 1. Clona el repositorio y añádelo en Unity Hub (*Add project from disk*).
-2. Ábrelo con Unity **6000.3.10f1**.
+2. Ábrelo con Unity **6000.3.27f1**.
 3. Abre la escena `Assets/3-Scenes/Main.unity` y pulsa **Play**.
